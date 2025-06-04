@@ -1,0 +1,8 @@
+../Core/Src/main.c:145:1:read_SDO	48	static
+../Core/Src/main.c:181:1:write_SDO	56	static
+../Core/Src/main.c:230:5:main	32	static,ignoring_inline_asm
+../Core/Src/main.c:550:6:SystemClock_Config	120	static
+../Core/Src/main.c:608:6:PeriphCommonClock_Config	192	static
+../Core/Src/main.c:633:1:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:642:6:MPU_Config	24	static
+../Core/Src/main.c:683:6:Error_Handler	4	static,ignoring_inline_asm

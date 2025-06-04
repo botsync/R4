@@ -1,0 +1,13 @@
+../Core/Src/xsens_utility.c:9:6:xsens_swap_endian_u16	16	static
+../Core/Src/xsens_utility.c:15:6:xsens_swap_endian_u32	16	static
+../Core/Src/xsens_utility.c:23:6:xsens_swap_endian_u64	16	static
+../Core/Src/xsens_utility.c:35:10:xsens_coalesce_16BE_16LE	16	static
+../Core/Src/xsens_utility.c:40:10:xsens_coalesce_32BE_32LE	16	static
+../Core/Src/xsens_utility.c:48:7:xsens_coalesce_32BE_F32LE	24	static
+../Core/Src/xsens_utility.c:62:6:xsens_coalesce_48BE_48LE	16	static
+../Core/Src/xsens_utility.c:72:6:xsens_quaternion_to_euler	56	static
+../Core/Src/xsens_utility.c:101:6:xsens_euler_to_quaternion	56	static
+../Core/Src/xsens_utility.c:120:9:xsens_f32_to_fp1220	16	static
+../Core/Src/xsens_utility.c:125:7:xsens_fp1220_to_f32	16	static
+../Core/Src/xsens_utility.c:130:9:xsens_f64_to_fp1632	24	static
+../Core/Src/xsens_utility.c:135:8:xsens_fp1632_to_f64	24	static

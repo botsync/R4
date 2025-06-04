@@ -1,0 +1,8 @@
+../Core/Src/main.c:145:1:read_SDO	5
+../Core/Src/main.c:181:1:write_SDO	6
+../Core/Src/main.c:230:5:main	7
+../Core/Src/main.c:550:6:SystemClock_Config	4
+../Core/Src/main.c:608:6:PeriphCommonClock_Config	2
+../Core/Src/main.c:633:1:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:642:6:MPU_Config	1
+../Core/Src/main.c:683:6:Error_Handler	1

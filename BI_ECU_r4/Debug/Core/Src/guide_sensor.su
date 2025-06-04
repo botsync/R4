@@ -1,0 +1,7 @@
+../Core/Src/guide_sensor.c:60:6:guide_sensor1_send_real_time_init	4	static
+../Core/Src/guide_sensor.c:74:6:guide_sensor1_send_real_time	8	static
+../Core/Src/guide_sensor.c:152:6:guide_sensor1_real_time_commands	16	static
+../Core/Src/guide_sensor.c:193:6:guide_sensor1_configuration_command	16	static
+../Core/Src/guide_sensor.c:279:12:getCommandEnum	16	static
+../Core/Src/guide_sensor.c:322:7:findMatchingSubstring	24	static
+../Core/Src/guide_sensor.c:338:6:handleCommand	104	static
